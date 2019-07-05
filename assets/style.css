@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: rgb(0, 0, 0);
+  background: -moz-linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 95%, rgba(163, 91, 45, 1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 95%, rgba(163, 91, 45, 1) 100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 95%, rgba(163, 91, 45, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#a35b2d", GradientType=1);
+  font-family: 'Didact Gothic';
+  z-index: 1001;
+}
+
+.logo {
+  font-weight: 600;
+  padding: 10px;
+  text-align:center;
+  font-size: 3em;
+}
+
+.wrapper {
+  color: #eee;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+display: flex;
+justify-content: center;
+}
+
+.content {
+  width: 80%;
+}
+.discord{text-align:center; padding:20px;}
+.message>div {
+  padding: 10px;
+}
