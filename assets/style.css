@@ -35,9 +35,10 @@ justify-content: center;
 }
 
 .content {
-  width: 80%;
+max-width:450px;
 }
-.discord{text-align:center; padding:20px;}
+
 .message>div {
   padding: 10px;
 }
+.discord{text-align:center; padding-top:20px; padding-left:0; padding-right:0;}
