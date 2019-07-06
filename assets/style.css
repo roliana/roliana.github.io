@@ -10,9 +10,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background: rgb(0, 0, 0);
-  background: -moz-linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 95%, rgba(163, 91, 45, 1) 100%);
-  background: -webkit-linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 95%, rgba(163, 91, 45, 1) 100%);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 95%, rgba(163, 91, 45, 1) 100%);
+  background: -moz-linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 90%, rgba(163, 91, 45, 1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 90%, rgba(163, 91, 45, 1) 100%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(31, 15, 42, 1) 42%, rgba(106, 16, 16, 1) 90%, rgba(163, 91, 45, 1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#a35b2d", GradientType=1);
   font-family: 'Didact Gothic';
   z-index: 1001;
